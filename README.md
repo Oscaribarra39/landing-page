@@ -1,2 +1,2 @@
 # landing-page
-this is an odin excercise, idk how am i goint to do it
+this is an odin excercise, idk nothing
